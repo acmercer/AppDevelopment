@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">App Development</string>
+    <string name="calendarTitle">Calendar</string>
+    <string name="notesTitle">Notes</string>
+    <string name="ToDoTitle">To-do List</string>
+    <string name="shoppingTitle">Shopping List</string>
+    <string name="focusTitle">Focus Mode</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">Login Activity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="web_client_id">268408812618-i5s804fufhq3sut8br0vll2id5pi2mf1.apps.googleusercontent.com</string>
+    <string name="continueTxt">Continue</string>
+    <string name="create_account">Create Account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="or">Or</string>
+    <string name="sign_in">Sign in</string>
+    <string name="emailSignIn">Email Sign In/ Sign Up</string>
+    <string name="googleSignIn">Google Sign In</string>
+    <string name="pauseBtn">Pause/ Stop</string>
+    <string name="addTime">Add Time</string>
+    <string name="todoItem">To-do item</string>
+    <string name="alertYN">Reminder</string>
+    <string name="repeat">Repeat</string>
+    <string name="saveTODO">Save to-do</string>
+    <string name="filterTODO">Filter List</string>
+    <string name="setDate">Set date</string>
+    <string name="setTime">Set time</string>
+    <string name="startTimer">Play</string>
+    <string name="viewSaved">View Saved</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="home">Home</string>
+    <string name="addItem">Add Item</string>
+    <string name="edit">Edit To-do</string>
+    <string name="newNote">New Note</string>
+    <string name="item">Item</string>
+    <string-array name="repeat_array">
+        <item>Never</item>
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+        <item>Yearly</item>
+    </string-array>
+</resources>
